@@ -1,4 +1,5 @@
 #!/bin/bash
+#Cron job to run the scraper each day
 
 cd ~/anish/Olympia/vacatures
 
